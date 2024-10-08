@@ -1,0 +1,1 @@
+Caso seu Whaticket esteja com vazamento de dados nas conversas dos clientes... utilize estas atualizações para corrigir. Talñvez tenha que alterar algo... mas, isso depende do codigo... o principal está feito.
